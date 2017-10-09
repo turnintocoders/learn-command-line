@@ -26,6 +26,10 @@ Topics:
 - zsh - ohmyzsh
 - alias
 
+Python server:
+- python3 -m http.server 8000
+
+
 Resources:
 
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)  
