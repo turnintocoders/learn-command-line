@@ -20,7 +20,7 @@ You can find the Terminal inside the Apps > Utility folder.
 
 ## Gentle introduction
 
-[Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac](https://www.youtube.com/watch?v=BFMyUgF6I8Y&t)
+[![Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac](bash-tutorial.png)](https://www.youtube.com/watch?v=BFMyUgF6I8Y&t)
 
 ## Topics
 
